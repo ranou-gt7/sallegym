@@ -12,6 +12,7 @@ Gestion des produits : Ajouter, modifier et supprimer des produits, avec suivi d
 Gestion des ventes : Enregistrer les ventes, calculer les bénéfices et consulter l'historique.
 Gestion des photos : Associer une photo à chaque membre pour faciliter son identification.
 Stockage des données : Utilisation de fichiers JSON pour sauvegarder les informations.
+
 🛠️ Technologies utilisées
 Python
 Tkinter
@@ -20,6 +21,7 @@ JSON
 Pillow (PIL)
 TkCalendar
 QRCode
+
 🎯 Objectif du projet
 L'objectif de SALLEGYM est de proposer une solution simple et pratique pour automatiser les tâches administratives d'une salle de sport, améliorer le suivi des adhérents et faciliter la gestion financière et commerciale.
 
