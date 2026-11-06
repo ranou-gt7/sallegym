@@ -25,7 +25,9 @@ QRCode
 💻 Installation
 
 Allez sur Releases
+
 Puis salle gym
+
 Assets puis cliquer sur : 1.ico 1.png 2.png 3.png 4.png SALLEGYM.exe
 
 
