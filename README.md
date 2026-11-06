@@ -22,9 +22,16 @@ Pillow (PIL)
 TkCalendar
 QRCode
 
+💻 Installation
+
+Allez sur Releases
+Puis salle gym
+Assets puis cliquer sur : 1.ico 1.png 2.png 3.png 4.png SALLEGYM.exe
+
+
 🎯 Objectif du projet
 L'objectif de SALLEGYM est de proposer une solution simple et pratique pour automatiser les tâches administratives d'une salle de sport, améliorer le suivi des adhérents et faciliter la gestion financière et commerciale.
 
-Développé en Python
+Développé en Python par BELAIDI Abdelghani
 
 Projet de développement logiciel – Gestion et automatisation d'une salle de sport.
